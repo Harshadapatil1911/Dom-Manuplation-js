@@ -1,0 +1,10 @@
+const div = document.getElementById("root");
+div.style.backgroundColor = "yellow";
+div.style.width = "300px";
+div.style.height = "200px";
+div.style.margin = "20px";
+div.style.padding = "10px";
+const h1 = document.querySelector("#root>h1");
+h1.style.fontSize = "18px";
+h1.style.fontWeight = "bold";
+h1.style.color = "blue";
